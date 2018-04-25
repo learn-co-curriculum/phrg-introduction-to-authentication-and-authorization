@@ -91,3 +91,4 @@ implementation of these four security concepts in a Ruby on Rails application.
 
 [FG]: http://www.imdb.com/title/tt0080745/
 [odyssey]: http://classics.mit.edu/Homer/odyssey.23.xxiii.html#151
+<p data-visibility='hidden'>PHRG Introduction to Authentication and Authorization</p>
