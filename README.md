@@ -89,6 +89,9 @@ important to have a general understanding of their meaning.
 Over the course of this section, you will learn how to build a basic
 implementation of these four security concepts in a Ruby on Rails application.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-introduction-to-authentication-and-authorization/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-introduction-to-authentication-and-authorization/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 [FG]: http://www.imdb.com/title/tt0080745/
 [odyssey]: http://classics.mit.edu/Homer/odyssey.23.xxiii.html#151
 <p data-visibility='hidden'>PHRG Introduction to Authentication and Authorization</p>
